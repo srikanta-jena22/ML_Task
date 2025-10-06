@@ -57,15 +57,4 @@ This repository showcases a comprehensive collection of machine learning and dee
 - **Deep Learning Model**:
   - Convolutional Neural Network (CNN) using TensorFlow
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Python 3.6+
-- Required libraries are listed in `requirements.txt`. Install them using:
-
-```bash
-pip install -r requirements.txt
 
